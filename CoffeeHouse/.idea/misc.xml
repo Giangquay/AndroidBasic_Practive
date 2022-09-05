@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/CoffeeHouse/app/src/main/res/layout/activity_password.xml" value="0.1793478260869565" />
+        <entry key="..\:/CoffeeHouse/app/src/main/res/layout/addcategory_layout.xml" value="0.1793478260869565" />
+        <entry key="..\:/CoffeeHouse/app/src/main/res/layout/addmenu_layout.xml" value="0.1793478260869565" />
+        <entry key="..\:/CoffeeHouse/app/src/main/res/layout/addstaff_layout.xml" value="0.1793478260869565" />
+        <entry key="..\:/CoffeeHouse/app/src/main/res/layout/addtable_layout.xml" value="0.1793478260869565" />
+        <entry key="..\:/CoffeeHouse/app/src/main/res/layout/amount_menu_layout.xml" value="0.1793478260869565" />
+        <entry key="..\:/CoffeeHouse/app/src/main/res/layout/custom_layout_displaycategory.xml" value="0.1793478260869565" />
+        <entry key="..\:/CoffeeHouse/app/src/main/res/layout/custom_layout_displaymenu.xml" value="0.1793478260869565" />
+        <entry key="..\:/CoffeeHouse/app/src/main/res/layout/custom_layout_displaystaff.xml" value="0.1793478260869565" />
+        <entry key="..\:/CoffeeHouse/app/src/main/res/layout/custom_layout_displaystatistic.xml" value="0.1793478260869565" />
+        <entry key="..\:/CoffeeHouse/app/src/main/res/layout/custom_layout_displaytable.xml" value="0.1793478260869565" />
+        <entry key="..\:/CoffeeHouse/app/src/main/res/layout/custom_layout_paymentmenu.xml" value="0.1793478260869565" />
+        <entry key="..\:/CoffeeHouse/app/src/main/res/layout/detailstatistic_layout.xml" value="0.1793478260869565" />
+        <entry key="..\:/CoffeeHouse/app/src/main/res/layout/displaycategory_layout.xml" value="0.1793478260869565" />
+        <entry key="..\:/CoffeeHouse/app/src/main/res/layout/displayhome_layout.xml" value="0.1793478260869565" />
+        <entry key="..\:/CoffeeHouse/app/src/main/res/layout/displayinformation_layout.xml" value="0.1793478260869565" />
+        <entry key="..\:/CoffeeHouse/app/src/main/res/layout/displaymenu_layout.xml" value="0.1793478260869565" />
+        <entry key="..\:/CoffeeHouse/app/src/main/res/layout/displaystaff_layout.xml" value="0.1793478260869565" />
+        <entry key="..\:/CoffeeHouse/app/src/main/res/layout/displaystatistic_layout.xml" value="0.1793478260869565" />
+        <entry key="..\:/CoffeeHouse/app/src/main/res/layout/edittable_layout.xml" value="0.1793478260869565" />
+        <entry key="..\:/CoffeeHouse/app/src/main/res/layout/register_layout.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/Quang Danger/AndroidStudioProjects/CoffeeHouse/app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/Quang Danger/AndroidStudioProjects/CoffeeHouse/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/Quang Danger/AndroidStudioProjects/CoffeeHouse/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/Quang Danger/AndroidStudioProjects/CoffeeHouse/app/src/main/res/drawable/ic_menu.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/Quang Danger/AndroidStudioProjects/CoffeeHouse/app/src/main/res/drawable/round_corner_categorytext.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/Quang Danger/AndroidStudioProjects/CoffeeHouse/app/src/main/res/drawable/round_corner_menutext.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/Quang Danger/AndroidStudioProjects/CoffeeHouse/app/src/main/res/drawable/round_corner_textview.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/Quang Danger/AndroidStudioProjects/CoffeeHouse/app/src/main/res/drawable/shape_button.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/Quang Danger/AndroidStudioProjects/CoffeeHouse/app/src/main/res/font/muli.xml" value="0.22777777777777777" />
+        <entry key="..\:/Users/Quang Danger/AndroidStudioProjects/CoffeeHouse/app/src/main/res/layout/activity_main.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/Quang Danger/AndroidStudioProjects/CoffeeHouse/app/src/main/res/layout/activity_password.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/Quang Danger/AndroidStudioProjects/CoffeeHouse/app/src/main/res/layout/amount_menu_layout.xml" value="0.1213768115942029" />
+        <entry key="..\:/Users/Quang Danger/AndroidStudioProjects/CoffeeHouse/app/src/main/res/layout/detailstatistic_layout.xml" value="0.1213768115942029" />
+        <entry key="..\:/Users/Quang Danger/AndroidStudioProjects/CoffeeHouse/app/src/main/res/layout/displaystatistic_layout.xml" value="0.22" />
+        <entry key="..\:/Users/Quang Danger/AndroidStudioProjects/CoffeeHouse/app/src/main/res/layout/home_layout.xml" value="0.25" />
+        <entry key="..\:/Users/Quang Danger/AndroidStudioProjects/CoffeeHouse/app/src/main/res/layout/login_layout.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/Quang Danger/AndroidStudioProjects/CoffeeHouse/app/src/main/res/layout/payment_layout.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/Quang Danger/AndroidStudioProjects/CoffeeHouse/app/src/main/res/layout/register_layout.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/Quang Danger/AndroidStudioProjects/CoffeeHouse/app/src/main/res/layout/welcome_layout.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/Quang Danger/AndroidStudioProjects/CoffeeHouse/app/src/main/res/menu/edit_context_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Quang Danger/AndroidStudioProjects/CoffeeHouse/app/src/main/res/menu/item_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Quang Danger/AndroidStudioProjects/CoffeeHouse/app/src/main/res/menu/main_menu_navigation.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Quang Danger/AndroidStudioProjects/CoffeeHouse/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

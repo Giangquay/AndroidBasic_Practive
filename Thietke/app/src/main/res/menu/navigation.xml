@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_shop"
+        android:icon="@drawable/ic_store_white_24dp"
+        android:title="Shop" />
+
+    <item
+        android:id="@+id/navigation_gifts"
+        android:icon="@drawable/ic_card_giftcard_white_24dp"
+        android:title="Gifts" />
+
+    <item
+        android:id="@+id/navigation_cart"
+        android:icon="@drawable/shop"
+        android:title="Cart" />
+    <item
+        android:id="@+id/navigation_delivery"
+        android:icon="@drawable/delivery"
+        android:title="Delivery" />
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_baseline_person_pin_24"
+        android:title="Profile" />
+
+</menu>

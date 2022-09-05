@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<employees>
+    <employeess id="1" title="Architect" >
+        <name>Nguyen Minh Giang</name>
+        <phone>01321321182</phone>
+    </employeess>
+    <employeess id="2" title="Engineer" >
+        <name>Dang Viet Anh</name>
+        <phone>09721259687</phone>
+    </employeess>
+    <employeess id="3" title="Teacher" >
+        <name>Nguyen Dac Chien</name>
+        <phone>08884045967</phone>
+    </employeess>
+    <employeess id="4" title="Engineer" >
+        <name>Nguyen Ho Trong Nguyen</name>
+        <phone>03823345967</phone>
+    </employeess>
+</employees>

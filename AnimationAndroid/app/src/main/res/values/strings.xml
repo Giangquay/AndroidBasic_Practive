@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AnimationAndroid</string>
+    <string name="tab_1">Home</string>
+    <string name="tab_2">Favorite</string>
+    <string name="tab_3">My Page</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="vn.minhgiang.BroadCastReceiver.BroadCastRecive2.BroadCastReciver2">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnreiver"
+        android:text="SEND BROADCAST"
+        android:backgroundTint="@color/teal_200"
+        android:textSize="20sp"
+        android:layout_margin="20dp"
+        android:textColor="@color/white"/>
+</LinearLayout>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.animationandroid">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AnimationAndroid">
+
+        <activity
+            android:name=".StartActivityAnimation.MainStartAnimation"
+            android:exported="false" />
+        <activity
+            android:name=".flexbox.flexbox"
+            android:exported="false" />
+        <activity
+            android:name=".FlodingCellExample"
+            android:exported="false" />
+        <activity
+            android:name=".Circlerotation"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Animation.RecycleFloding"
+            android:exported="false" />
+        <activity
+            android:name=".ShowAndHide.ShowHideView1"
+            android:exported="false"/>
+        <activity
+            android:name=".ShowAndHideBottomNavigationVie.BottomNavigationView"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".NavigationView.NavigaViewDrawer.FragmentOnBroading.FragmentOnboarding1">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/security"/>
+    <TextView
+        android:layout_marginTop="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="OnBoardingTitle1"
+        android:textSize="20sp"
+        android:textColor="@color/black"/>
+    <Button
+        android:id="@+id/btn_get_start"
+        android:layout_marginTop="30dp"
+        android:background="@color/teal_700"
+        android:text="Get Start"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"/>
+</LinearLayout>

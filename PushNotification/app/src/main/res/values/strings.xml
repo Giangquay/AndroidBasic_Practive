@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LesssionNotification</string>
+    <string name="channel1">l</string>
+    <string name="channelName1">channelName1</string>
+    <string name="channelDescription">channelDescription1</string>
+</resources>

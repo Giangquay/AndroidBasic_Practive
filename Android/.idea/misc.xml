@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/app/src/main/res/drawable-v24/custom_button1.xml" value="0.2703125" />
+        <entry key="..\:/Android/app/src/main/res/drawable-v24/custom_button2.xml" value="0.2703125" />
+        <entry key="..\:/Android/app/src/main/res/drawable/bg_white_border_gray.xml" value="0.2703125" />
+        <entry key="..\:/Android/app/src/main/res/drawable/custom_button.xml" value="0.2703125" />
+        <entry key="..\:/Android/app/src/main/res/drawable/list_item_click.xml" value="0.2703125" />
+        <entry key="..\:/Android/app/src/main/res/layout/activity_broad_cast_reciver2.xml" value="0.18070652173913043" />
+        <entry key="..\:/Android/app/src/main/res/layout/activity_broad_cast_reciver3.xml" value="0.1743659420289855" />
+        <entry key="..\:/Android/app/src/main/res/layout/activity_broad_cast_reiver.xml" value="0.1743659420289855" />
+        <entry key="..\:/Android/app/src/main/res/layout/activity_custom_reciver.xml" value="0.18659420289855072" />
+        <entry key="..\:/Android/app/src/main/res/layout/activity_excute_xml.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/app/src/main/res/layout/activity_listview.xml" value="0.15443840579710144" />
+        <entry key="..\:/Android/app/src/main/res/layout/activity_login_mvc.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/app/src/main/res/layout/activity_login_mvp.xml" value="0.1793478260869565" />
+        <entry key="..\:/Android/app/src/main/res/layout/activity_login_room.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/app/src/main/res/layout/activity_main.xml" value="0.17255434782608695" />
+        <entry key="..\:/Android/app/src/main/res/layout/activity_recyleview.xml" value="0.17255434782608695" />
+        <entry key="..\:/Android/app/src/main/res/layout/activity_scroll_view_hozizontal.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/app/src/main/res/layout/activity_scroll_viewl.xml" value="0.264" />
+        <entry key="..\:/Android/app/src/main/res/layout/activity_toast.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/app/src/main/res/layout/activity_update.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/app/src/main/res/layout/activitysangfragment.xml" value="0.264" />
+        <entry key="..\:/Android/app/src/main/res/layout/custom_recyclerview.xml" value="0.17255434782608695" />
+        <entry key="..\:/Android/app/src/main/res/layout/custom_toast_layout.xml" value="0.264" />
+        <entry key="..\:/Android/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Android/app/src/main/res/layout/iteam_user.xml" value="0.264" />
+        <entry key="..\:/Android/app/src/main/res/layout/layout_custom_listview.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/app/src/main/res/menu/item_city.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/app/src/main/res/xml/employee.xml" value="0.25416666666666665" />
+        <entry key="..\:/FolderAndroid/Android/app/src/main/res/layout/activity_broad_cast_reciver2.xml" value="0.4173913181932306" />
+        <entry key="..\:/FolderAndroid/Android/app/src/main/res/layout/activity_broad_cast_reciver3.xml" value="0.25416666666666665" />
+        <entry key="..\:/FolderAndroid/Android/app/src/main/res/layout/activity_login_shared.xml" value="0.25416666666666665" />
+        <entry key="..\:/FolderAndroid/Android/app/src/main/res/layout/activity_my_shared_preences.xml" value="0.25416666666666665" />
+        <entry key="..\:/FolderAndroid/Android/app/src/main/res/layout/activity_mya_shared_prerences2.xml" value="0.25416666666666665" />
+        <entry key="..\:/FolderAndroid/Android/app/src/main/res/layout/activity_notification_push.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.25416666666666665" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

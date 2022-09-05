@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="vn.minhgiang.list">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+<!--    android:name="vn.minhgiang.SharedPrerencesAndorid.MyAplicationshare"-->
+<!--    android:name="vn.minhgiang.PushNotification.Myaplication"-->
+    <application
+       android:name="vn.minhgiang.SharedPrerencesAndorid.SharePreferencesObject.MyAplicationUser"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.List">
+        <activity
+            android:name="vn.minhgiang.SharedPrerencesAndorid.MyaSharedPrerences2"
+            android:exported="false" />
+        <activity
+            android:name="vn.minhgiang.SharedPrerencesAndorid.SharePreferencesObject.LoginShared"
+            android:exported="true" >
+
+<!--        <activity-->
+<!--            android:name="vn.minhgiang.SharedPrerencesAndorid.MySharedPreences"-->
+<!--            android:exported="true">-->
+
+            <!-- <activity -->
+            <!-- android:name="vn.minhgiang.PushNotification.NotificationPush" -->
+            <!-- android:exported="false"/> -->
+
+
+            <!-- <activity -->
+            <!-- android:name="vn.minhgiang.XML.ExcuteXML" -->
+            <!-- android:exported="true"> -->
+            <!-- <meta-data -->
+            <!-- android:name="com.google.android.actions" -->
+            <!-- android:resource="@raw/employee" /> -->
+
+
+            <!-- <activity -->
+            <!-- android:name="vn.minhgiang.RoomdataBase.Activities.UpdateActivity" -->
+            <!-- android:exported="false" /> -->
+            <!-- <activity -->
+            <!-- android:name="vn.minhgiang.RoomdataBase.Activities.LoginRoom" -->
+            <!-- android:exported="true"> -->
+
+
+            <!-- <activity -->
+            <!-- android:name=".ScrollViewlist.ScrollViewl" -->
+            <!-- android:exported="true"> -->
+
+
+            <!-- <activity -->
+            <!-- android:name="vn.minhgiang.MVP.LoginMVP" -->
+            <!-- android:exported="true"> -->
+
+
+            <!-- <activity -->
+            <!-- android:name="vn.minhgiang.MVC.LoginMVC" -->
+            <!-- android:exported="true"> -->
+
+
+            <!-- <activity -->
+            <!-- android:name=".ListView.ListviewExample" -->
+            <!-- android:exported="true"> -->
+
+
+            <!-- <activity -->
+            <!-- android:name="vn.minhgiang.CustomToast.ToastCustom" -->
+            <!-- android:exported="true"> -->
+
+
+            <!-- <activity -->
+            <!-- android:name="vn.minhgiang.BroadCastRecive.BroadCastReiver" -->
+            <!-- android:exported="false" /> -->
+            <!-- <activity -->
+            <!-- android:name="vn.minhgiang.BroadCastReceiver.BroadCastReciver3.BroadCastReciver3" -->
+            <!-- android:exported="true"> -->
+
+
+            <!-- <activity -->
+            <!-- android:name="vn.minhgiang.BroadCastRecive2.BroadCastReciver2" -->
+            <!-- android:exported="true"> -->
+
+
+            <!-- <activity -->
+            <!-- android:name="vn.minhgiang.BoradCastRecive1.CustomReciver" -->
+            <!-- android:exported="true"> -->
+
+
+            <!-- <activity -->
+            <!-- android:name="vn.minhgiang.ActivitysangFragment.activity" -->
+            <!-- android:exported="true"> -->
+
+
+            <!-- <activity -->
+            <!-- android:name=".MainActivity" -->
+            <!-- android:exported="true" /> -->
+            <!-- <activity -->
+            <!-- android:name=".ReclyView.Recyleview" -->
+            <!-- android:exported="false"/> -->
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.flexbox.FlexboxLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/flexbox_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:flexWrap="wrap_reverse"
+    app:alignItems="stretch"
+    app:alignContent="center" >
+
+    <TextView
+        android:text="@string/app_name"
+        android:textSize="20sp"
+        android:id="@+id/textview1"
+        android:layout_width="120dp"
+        android:layout_height="80dp"
+        app:layout_flexBasisPercent="50%"
+        />
+
+    <TextView
+        android:text="@string/app_name"
+        android:textSize="20sp"
+        android:id="@+id/textview2"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        app:layout_alignSelf="center"
+        />
+
+    <TextView
+        android:text="@string/app_name"
+        android:textSize="20sp"
+        android:id="@+id/textview3"
+        android:layout_width="160dp"
+        android:layout_height="80dp"
+        app:layout_alignSelf="flex_end"
+        />
+    <TextView
+        android:text="@string/app_name"
+        android:textSize="20sp"
+        android:id="@+id/textview4"
+        android:layout_width="160dp"
+        android:layout_height="80dp"
+        app:layout_alignSelf="flex_end"
+        />
+    <TextView
+        android:text="@string/app_name"
+        android:textSize="20sp"
+        android:id="@+id/textview6"
+        android:layout_width="160dp"
+        android:layout_height="80dp"
+        app:layout_alignSelf="flex_end"
+        />
+    <TextView
+        android:text="@string/app_name"
+        android:textSize="20sp"
+        android:id="@+id/textview5"
+        android:layout_width="160dp"
+        android:layout_height="80dp"
+        app:layout_alignSelf="flex_end"
+        />
+</com.google.android.flexbox.FlexboxLayout>
